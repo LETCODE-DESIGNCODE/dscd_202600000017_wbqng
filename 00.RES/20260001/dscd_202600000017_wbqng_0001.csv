@@ -1,5 +1,5 @@
-﻿prdt_info_typa,prdt_info_namk,prdt_info_name,prdt_info_natn,prdt_info_team,prdt_info_numb,prdt_info_posi,prdt_info_foot,prdt_info_heig,prdt_info_weig,prdt_info_agee,prdt_info_birt,prdt_ctts
-월드컵,손흥민,Son Heung-min,대한민국,대한민국,7,FW(공격수),양발,183,78,33,1992-07-08,"
+﻿prdt_info_typa,prdt_info_namk,prdt_info_name,prdt_info_natn,prdt_info_team,prdt_info_numb,prdt_info_posi,prdt_info_heig,prdt_info_weig,prdt_info_agee,prdt_info_foot,prdt_info_birt,prdt_ctts
+월드컵,손흥민,Son Heung-min,대한민국,대한민국,7,FW(공격수),183,78,33,양발,1992-07-08,"
 <div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
   <img src='https://via.placeholder.com/600x400' alt='Son Heung-min' class='w-full h-64 object-cover rounded-lg mb-4'>
   <h1 class='text-2xl font-bold'>손흥민 (Son Heung-min)</h1>
@@ -13,7 +13,7 @@
   </div>
 </div>
 "
-월드컵,김민재,Kim Min-jae,대한민국,대한민국,4,DF(수비수),오른발,190,88,29,1996-11-15,"
+월드컵,김민재,Kim Min-jae,대한민국,대한민국,4,DF(수비수),190,88,29,오른발,1996-11-15,"
 <div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
   <img src='https://via.placeholder.com/600x400' alt='Kim Min-jae' class='w-full h-64 object-cover rounded-lg mb-4'>
   <h1 class='text-2xl font-bold'>김민재 (Kim Min-jae)</h1>
@@ -27,7 +27,7 @@
   </div>
 </div>
 "
-월드컵,이강인,Lee Kang-in,대한민국,대한민국,19,MF(미드필더),왼발,174,72,25,2001-02-19,"
+월드컵,이강인,Lee Kang-in,대한민국,대한민국,19,MF(미드필더),174,72,25,왼발,2001-02-19,"
 <div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
   <img src='https://via.placeholder.com/600x400' alt='Lee Kang-in' class='w-full h-64 object-cover rounded-lg mb-4'>
   <h1 class='text-2xl font-bold'>이강인 (Lee Kang-in)</h1>
@@ -38,6 +38,328 @@
     <div>몸무게: 72 kg</div>
     <div>나이: 25 세</div>
     <div>주발: 왼발</div>
+  </div>
+</div>
+"
+월드컵,황희찬,Hwang Hee-chan,대한민국,대한민국,11,FW(공격수),177,77,30,오른발,1996-01-26,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Hwang Hee-chan' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>황희찬 (Hwang Hee-chan)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: FW(공격수)</div>
+    <div>등번호: 11</div>
+    <div>키: 177 cm</div>
+    <div>몸무게: 77 kg</div>
+    <div>나이: 30 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,이재성,Lee Jae-sung,대한민국,대한민국,10,MF(미드필더),180,70,33,오른발,1992-08-10,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Lee Jae-sung' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>이재성 (Lee Jae-sung)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 10</div>
+    <div>키: 180 cm</div>
+    <div>몸무게: 70 kg</div>
+    <div>나이: 33 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,황인범,Hwang In-beom,대한민국,대한민국,6,MF(미드필더),177,70,29,오른발,1996-09-20,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Hwang In-beom' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>황인범 (Hwang In-beom)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 6</div>
+    <div>키: 177 cm</div>
+    <div>몸무게: 70 kg</div>
+    <div>나이: 29 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,백승호,Paik Seung-ho,대한민국,대한민국,8,MF(미드필더),182,72,29,오른발,1997-03-17,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Paik Seung-ho' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>백승호 (Paik Seung-ho)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 8</div>
+    <div>키: 182 cm</div>
+    <div>몸무게: 72 kg</div>
+    <div>나이: 29 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,조규성,Cho Gue-sung,대한민국,대한민국,9,FW(공격수),189,82,28,오른발,1998-01-25,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Cho Gue-sung' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>조규성 (Cho Gue-sung)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: FW(공격수)</div>
+    <div>등번호: 9</div>
+    <div>키: 189 cm</div>
+    <div>몸무게: 82 kg</div>
+    <div>나이: 28 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,오현규,Oh Hyeon-gyu,대한민국,대한민국,18,FW(공격수),183,72,25,오른발,2001-04-12,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Oh Hyeon-gyu' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>오현규 (Oh Hyeon-gyu)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: FW(공격수)</div>
+    <div>등번호: 18</div>
+    <div>키: 183 cm</div>
+    <div>몸무게: 72 kg</div>
+    <div>나이: 25 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,조현우,Jo Hyeon-woo,대한민국,대한민국,21,GK(골키퍼),189,75,34,오른발,1991-09-25,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Jo Hyeon-woo' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>조현우 (Jo Hyeon-woo)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: GK(골키퍼)</div>
+    <div>등번호: 21</div>
+    <div>키: 189 cm</div>
+    <div>몸무게: 75 kg</div>
+    <div>나이: 34 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,김승규,Kim Seung-gyu,대한민국,대한민국,1,GK(골키퍼),187,84,35,오른발,1990-09-30,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Kim Seung-gyu' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>김승규 (Kim Seung-gyu)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: GK(골키퍼)</div>
+    <div>등번호: 1</div>
+    <div>키: 187 cm</div>
+    <div>몸무게: 84 kg</div>
+    <div>나이: 35 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,송범근,Song Bum-keun,대한민국,대한민국,12,GK(골키퍼),194,88,28,오른발,1997-10-15,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Song Bum-keun' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>송범근 (Song Bum-keun)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: GK(골키퍼)</div>
+    <div>등번호: 12</div>
+    <div>키: 194 cm</div>
+    <div>몸무게: 88 kg</div>
+    <div>나이: 28 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,설영우,Seol Young-woo,대한민국,대한민국,22,DF(수비수),180,72,27,오른발,1998-12-05,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Seol Young-woo' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>설영우 (Seol Young-woo)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 22</div>
+    <div>키: 180 cm</div>
+    <div>몸무게: 72 kg</div>
+    <div>나이: 27 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,이한범,Lee Han-beom,대한민국,대한민국,2,DF(수비수),188,72,23,오른발,2002-06-17,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Lee Han-beom' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>이한범 (Lee Han-beom)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 2</div>
+    <div>키: 188 cm</div>
+    <div>몸무게: 72 kg</div>
+    <div>나이: 23 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,이태석,Lee Tae-seok,대한민국,대한민국,13,DF(수비수),174,61,23,왼발,2002-07-28,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Lee Tae-seok' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>이태석 (Lee Tae-seok)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 13</div>
+    <div>키: 174 cm</div>
+    <div>몸무게: 61 kg</div>
+    <div>나이: 23 세</div>
+    <div>주발: 왼발</div>
+  </div>
+</div>
+"
+월드컵,김태현,Kim Tae-hyeon,대한민국,대한민국,26,DF(수비수),187,69,25,왼발,2000-09-17,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Kim Tae-hyeon' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>김태현 (Kim Tae-hyeon)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 26</div>
+    <div>키: 187 cm</div>
+    <div>몸무게: 69 kg</div>
+    <div>나이: 25 세</div>
+    <div>주발: 왼발</div>
+  </div>
+</div>
+"
+월드컵,박진섭,Park Jin-seob,대한민국,대한민국,16,DF(수비수),182,75,30,오른발,1995-10-23,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Park Jin-seob' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>박진섭 (Park Jin-seob)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 16</div>
+    <div>키: 182 cm</div>
+    <div>몸무게: 75 kg</div>
+    <div>나이: 30 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,양현준,Yang Hyun-jun,대한민국,대한민국,20,FW(공격수),179,73,24,오른발,2002-05-25,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Yang Hyun-jun' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>양현준 (Yang Hyun-jun)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: FW(공격수)</div>
+    <div>등번호: 20</div>
+    <div>키: 179 cm</div>
+    <div>몸무게: 73 kg</div>
+    <div>나이: 24 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,엄지성,Eom Ji-sung,대한민국,대한민국,17,MF(미드필더),177,70,24,오른발,2002-05-09,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Eom Ji-sung' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>엄지성 (Eom Ji-sung)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 17</div>
+    <div>키: 177 cm</div>
+    <div>몸무게: 70 kg</div>
+    <div>나이: 24 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,배준호,Bae Jun-ho,대한민국,대한민국,27,MF(미드필더),180,70,22,오른발,2003-08-21,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Bae Jun-ho' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>배준호 (Bae Jun-ho)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 27</div>
+    <div>키: 180 cm</div>
+    <div>몸무게: 70 kg</div>
+    <div>나이: 22 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,이동경,Lee Dong-gyeong,대한민국,대한민국,26,MF(미드필더),175,68,28,왼발,1997-09-20,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Lee Dong-gyeong' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>이동경 (Lee Dong-gyeong)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 26</div>
+    <div>키: 175 cm</div>
+    <div>몸무게: 68 kg</div>
+    <div>나이: 28 세</div>
+    <div>주발: 왼발</div>
+  </div>
+</div>
+"
+월드컵,김진규,Kim Jin-gyu,대한민국,대한민국,24,MF(미드필더),177,68,29,오른발,1997-02-24,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Kim Jin-gyu' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>김진규 (Kim Jin-gyu)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 24</div>
+    <div>키: 177 cm</div>
+    <div>몸무게: 68 kg</div>
+    <div>나이: 29 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,이기혁,Lee Gi-hyuk,대한민국,대한민국,3,DF(수비수),184,72,25,왼발,2000-07-07,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Lee Gi-hyuk' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>이기혁 (Lee Gi-hyuk)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 3</div>
+    <div>키: 184 cm</div>
+    <div>몸무게: 72 kg</div>
+    <div>나이: 25 세</div>
+    <div>주발: 왼발</div>
+  </div>
+</div>
+"
+월드컵,옌스 카스트로프,Jens Castrop,대한민국,대한민국,23,MF(미드필더),180,75,22,오른발,2003-07-29,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Jens Castrop' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>옌스 카스트로프 (Jens Castrop)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: MF(미드필더)</div>
+    <div>등번호: 23</div>
+    <div>키: 180 cm</div>
+    <div>몸무게: 75 kg</div>
+    <div>나이: 22 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,김문환,Kim Moon-hwan,대한민국,대한민국,15,DF(수비수),173,64,30,오른발,1995-08-01,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Kim Moon-hwan' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>김문환 (Kim Moon-hwan)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 15</div>
+    <div>키: 173 cm</div>
+    <div>몸무게: 64 kg</div>
+    <div>나이: 30 세</div>
+    <div>주발: 오른발</div>
+  </div>
+</div>
+"
+월드컵,조위제,Cho Wije,대한민국,대한민국,14,DF(수비수),189,82,24,오른발,2001-08-25,"
+<div class='max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-lg'>
+  <img src='https://via.placeholder.com/600x400' alt='Cho Wije' class='w-full h-64 object-cover rounded-lg mb-4'>
+  <h1 class='text-2xl font-bold'>조위제 (Cho Wije)</h1>
+  <div class='grid grid-cols-2 gap-4 mt-4 text-sm'>
+    <div>포지션: DF(수비수)</div>
+    <div>등번호: 14</div>
+    <div>키: 189 cm</div>
+    <div>몸무게: 82 kg</div>
+    <div>나이: 24 세</div>
+    <div>주발: 오른발</div>
   </div>
 </div>
 "
